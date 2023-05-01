@@ -5,6 +5,8 @@ jobs:
   badges:
     name: Colab Badges Job
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout first
         id: checkout

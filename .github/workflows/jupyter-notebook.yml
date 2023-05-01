@@ -1,0 +1,25 @@
+name: Jupyter Notebook Workflow
+on: [push]
+
+jobs:
+  badges:
+    name: Colab Badges Job
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout first
+        id: checkout
+        uses: actions/checkout@v2
+
+      - name: Add/Update badges
+        id: badges
+        uses: trsvchn/colab-badge-action@v4
+        with:
+          check: "all"
+          target_branch: main
+          target_repository: Reversean/opt-labs
+          update: true
+
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Add/Update Colab Badges"

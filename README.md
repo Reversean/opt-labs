@@ -10,7 +10,7 @@
 
 ### 2. Марковские модели принятия решений
 
-{{ badge lab2.ipynb }}
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Reversean/opt-labs/blob/main/lab2.ipynb)
 
 ## Инструкция по использованию
 

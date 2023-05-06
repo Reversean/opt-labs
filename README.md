@@ -8,6 +8,10 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Reversean/opt-labs/blob/main/lab1.ipynb)
 
+### 2. Марковские модели принятия решений
+
+{{ badge lab2.ipynb }}
+
 ## Инструкция по использованию
 
 Сервис Google colab позволяет просматривать и запускать документы Jupyter Notebook, позволяющие совмещать исполняемый 

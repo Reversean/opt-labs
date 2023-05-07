@@ -18,7 +18,7 @@ TODO
 
 ### 4. Анализ GERT-сети
 
-{{ badge lab4.ipynb }}
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Reversean/opt-labs/blob/main/lab4.ipynb)
 
 ## Инструкция по использованию
 

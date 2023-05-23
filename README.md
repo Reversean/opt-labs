@@ -12,9 +12,9 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Reversean/opt-labs/blob/main/lab2.ipynb)
 
-### 3. Марковские модели принятия решений
+### 3. Оптимизация ССМО
 
-TODO
+{{ badge lab3.ipynb }}
 
 ### 4. Анализ GERT-сети
 

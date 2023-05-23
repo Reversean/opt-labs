@@ -14,7 +14,7 @@
 
 ### 3. Оптимизация ССМО
 
-{{ badge lab3.ipynb }}
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Reversean/opt-labs/blob/main/lab3.ipynb)
 
 ### 4. Анализ GERT-сети
 
